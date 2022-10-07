@@ -1,10 +1,10 @@
 #welcome {
   text-align: center;
-  background-color: lime;
+  background-color: violet;
   font-family: arial, serif;
   font-weight: 500;
   color: black;
-  border: 10px violet;
+  border: 10px lime;
   margin: 20px;
   padding: 10px;
 }
