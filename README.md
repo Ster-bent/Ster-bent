@@ -1,2 +1,1 @@
-Sterning Rn
-I am Him
+im sorry
